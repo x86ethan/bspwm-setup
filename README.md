@@ -8,9 +8,9 @@ This repository reflects my entire setup on Arch Linux with [BSPWM](https://gith
 
 ## Programs I use
 
-🪟 Window Manager: [BSPWM](https://github.com/baskerville/bspwm)
-⌨  Keyboard shortcuts handler: [SXHKD](https://github.com/baskerville/sxhkd)
-📦 Program launcher: [Rofi](https://github.com/davatorium/rofi)
-〰️ Bar: [Polybar](https://polybar.github.io/)
-💾 Terminal Emulator: [Alacritty](https://alacritty.github.io)
+ - 🪟 Window Manager: [BSPWM](https://github.com/baskerville/bspwm)
+ - ⌨  Keyboard shortcuts handler: [SXHKD](https://github.com/baskerville/sxhkd)
+ - 📦 Program launcher: [Rofi](https://github.com/davatorium/rofi)
+ - 〰️ Bar: [Polybar](https://polybar.github.io/)
+ - 💾 Terminal Emulator: [Alacritty](https://alacritty.github.io)
 
